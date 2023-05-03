@@ -5,6 +5,6 @@
   + Source code that separates the train set and the test set.
   + The initial dataset and the datasets after splitting in 2020 and 2021.
 
-- In the regression model folder, there should be source code for multiple linear and simple polynomial regression.
+- In the regression model folder, include source code for multiple linear and simple polynomial regression.
 
 - In the result folder, include the results of the two models used.
